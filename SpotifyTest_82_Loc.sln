@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyTest_82_Loc", "SpotifyTest_82_Loc.csproj", "{8C342504-10A9-4CD4-9E9B-6D0DDC63B361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C342504-10A9-4CD4-9E9B-6D0DDC63B361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C342504-10A9-4CD4-9E9B-6D0DDC63B361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C342504-10A9-4CD4-9E9B-6D0DDC63B361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C342504-10A9-4CD4-9E9B-6D0DDC63B361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59306DF8-ACE9-43DD-A256-BB0C9E25B074}
+	EndGlobalSection
+EndGlobal
